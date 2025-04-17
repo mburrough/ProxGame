@@ -4,3 +4,6 @@ Dependencies:
 - Python 3
 - GuiZero 1.4 or later (sudo apt-get -y install python3-guizero)
 - [Proxmark 3 client](https://github.com/RfidResearchGroup/proxmark3) installed and in the system path (See [install instructions](https://github.com/RfidResearchGroup/proxmark3?tab=readme-ov-file#proxmark3-installation-and-overview))
+
+Screenshot:
+![Screenshot of client UI](cardwritescreenshot.png?raw=true "UI Screenshot")
